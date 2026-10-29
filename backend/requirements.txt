@@ -1,0 +1,1 @@
+fastapi==0.115.12\nuvicorn[standard]==0.34.0\nhttpx==0.28.1\npython-multipart==0.0.20\npydantic==2.10.6\npydantic-settings==2.7.1\nitsdangerous==2.2.0\npython-dotenv==1.0.1\nPyPDF2==3.0.1\npython-docx==1.1.2\npytest==8.3.4\n
